@@ -9,8 +9,11 @@
 ## 프로그래밍입문
 |과목|설명|책|영상|
 |---|--------------|-|---|
-|C언어입문|C언어를 예제들을 통해 쉽게 입문해보세요.|코딩 자율학습 나도코딩의 C 언어 입문|https://youtu.be/q6fPjQAzll8|
+|C언어입문|C언어를 예제들을 통해 쉽게 입문해보세요.|코딩 자율학습 나도코딩의 C 언어 입문|[https://youtu.be/q6fPjQAzll8](https://youtu.be/q6fPjQAzll8)|
 |C언어중급|C언어의 특징적인 기능 위주로 더 세세하게 배웁니다.|씹어먹는 C언어|
-|파이썬입문|Python을 예제들을 통해 쉽게 입문해보세요.|코딩 자율학습 나도코딩의 파이썬 입문|https://youtu.be/kWiCuklohdY|
-|파이썬중급|Python을 특징적인 기능 위주로 더 세세하게 배웁니다.|점프 투 파이썬|https://wikidocs.net/book/1|
+|파이썬입문|Python을 예제들을 통해 쉽게 입문해보세요.|코딩 자율학습 나도코딩의 파이썬 입문|[https://youtu.be/kWiCuklohdY](https://youtu.be/kWiCuklohdY)|
+|파이썬중급|Python을 특징적인 기능 위주로 더 세세하게 배웁니다.|점프 투 파이썬|[https://wikidocs.net/book/1(https://wikidocs.net/book/1)]|
+|자바입문|JAVA를 예제들을 통해 쉽게 입문해보세요.|코딩 자율학습 나도코딩의 자바 입문|[https://youtu.be/kWiCuklohdY](https://youtu.be/NQq0dOoEPUM)|
+|자바입문|JAVA를 특징적인 기능 위주로 더 세세하게 배웁니다.|자바의 정석 기초편, 점프 투 자바|[https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&si=IfKh-iIPbOx_oLLl](https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&si=IfKh-iIPbOx_oLLl)|
+
 
