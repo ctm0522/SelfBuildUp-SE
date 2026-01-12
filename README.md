@@ -2,9 +2,9 @@
 소프트웨어 기초지식들을 보강할 수 있는 외부 자료들을 아카이빙했습니다.
 
 ## 요약
-- 📚 프로그래밍입문 (Programming)(#-프로그래밍-입문-Introduction-Programming)
-- 💻 컴퓨터 공학 기초 (CS Basics)(#-컴퓨터-공학-기초-cs-basics)
-- 💻 컴퓨터 공학 필수 (CS Essentials)(#-컴퓨터-공학-필수-cs-essentials)
+- 📚 프로그래밍입문 (Programming)
+- 💻 컴퓨터 공학 기초 (CS Basics)
+- 💻 컴퓨터 공학 필수 (CS Essentials)
   
 ## 프로그래밍입문
 |과목|설명|책|영상|
