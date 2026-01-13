@@ -1,5 +1,6 @@
 # SelfBuildUp-SE
 소프트웨어 기초지식들을 보강할 수 있는 외부 자료들을 아카이빙했습니다.
+[TeachYourselfCS-KR](https://github.com/minnsane/TeachYourselfCS-KR)을 보고 영감을 받아 제작되었습니다.
 
 ## 요약
 - 📚 프로그래밍입문 (Programming)
@@ -30,6 +31,7 @@
 |데이터베이스|----|[데이터베이스 개론](https://search.shopping.naver.com/book/catalog/32485531816?cat_id=50010586&frm=PBOKPRO&query=%EA%B9%80%EC%97%B0%ED%9D%AC+%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4+%EA%B0%9C%EB%A1%A0&NaPm=ct%3Dmkce5e08%7Cci%3D6f37a48ae8d4133824f6eded741cb7d5ca98e274%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3Db52fb0142dcc4cd1a7174b405a2432a56a84027c)|http://www.kocw.net/home/cview.do?cid=9c591659f017851e](http://www.kocw.net/home/cview.do?cid=9c591659f017851e)|
 |컴퓨터네트워크|----|-|[http://www.kocw.net/home/search/kemView.do?kemId=1169634](http://www.kocw.net/home/search/kemView.do?kemId=1169634)|
 |컴퓨터구조론|----|-|[https://youtu.be/kFWP6sFKyp0](https://youtu.be/kFWP6sFKyp0)|
+|소프트웨어공학|----|-|[http://www.kocw.net/home/cview.do?cid=8c1f0e3871cf803d](http://www.kocw.net/home/cview.do?cid=8c1f0e3871cf803d)|
 
 
 
