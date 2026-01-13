@@ -3,11 +3,12 @@
 [TeachYourselfCS-KR](https://github.com/minnsane/TeachYourselfCS-KR)을 보고 영감을 받아 제작되었습니다.
 
 ## 요약
-- 📚 프로그래밍입문 (Programming)
-- 💻 컴퓨터 과학 기초 (CS Basics)
-- 💻 컴퓨터 과학 필수 (CS Essentials)
+- 📚 [프로그래밍입문](#프로그래밍입문)
+- 💻 [컴퓨터 과학 기초](#컴퓨터과학기초)
+- 💻 [컴퓨터 과학 필수](#컴퓨터과학필수)
+- 🔥 [학교에서 가르쳐주지 않는 것들](#학교에서가르쳐주지않는것들)
   
-## 프로그래밍입문
+## 프로그래밍입문()
 |과목|설명|책|영상|
 |---|--------------|-|---|
 |C언어입문|C언어를 예제들을 통해 쉽게 입문해보세요.|코딩 자율학습 나도코딩의 C 언어 입문|[https://youtu.be/q6fPjQAzll8](https://youtu.be/q6fPjQAzll8)|
@@ -33,6 +34,11 @@
 |컴퓨터구조론|----|-|[https://youtu.be/kFWP6sFKyp0](https://youtu.be/kFWP6sFKyp0)|
 |소프트웨어공학|----|-|[http://www.kocw.net/home/cview.do?cid=8c1f0e3871cf803d](http://www.kocw.net/home/cview.do?cid=8c1f0e3871cf803d)|
 
+## 학교에서 가르쳐 주지 않는 것들
+그 외에 학교에서 가르치지 않는 유용한 스킬들이 있습니다. 
 
+|과목|설명|책|영상|
+|---|--------------|-|---|
+|Missing Semester|CS 교육에서 가르쳐 주지 않는 툴의 숙련도를 높일 수 있습니다.|-|[https://missing-semester-kr.github.io/](https://missing-semester-kr.github.io/)|
 
 
