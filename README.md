@@ -30,7 +30,7 @@
 |---|--------------|-|---|
 |운영체제|----|[운영체제 제10판](https://search.shopping.naver.com/book/catalog/32473952371?query=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C&NaPm=ct%3Dmkcd2240%7Cci%3Dacf59c03b77fa220ca7f1b066c1f385ff12785fc%7Ctr%3Dboksl%7Csn%3D95694%7Chk%3D95648610be7eae95863922cc2a1af3d255a08ddb)|[https://inf.run/5tnQi](https://inf.run/5tnQi)|
 |데이터베이스|----|[데이터베이스 개론](https://search.shopping.naver.com/book/catalog/32485531816?cat_id=50010586&frm=PBOKPRO&query=%EA%B9%80%EC%97%B0%ED%9D%AC+%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4+%EA%B0%9C%EB%A1%A0&NaPm=ct%3Dmkce5e08%7Cci%3D6f37a48ae8d4133824f6eded741cb7d5ca98e274%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3Db52fb0142dcc4cd1a7174b405a2432a56a84027c)|http://www.kocw.net/home/cview.do?cid=9c591659f017851e](http://www.kocw.net/home/cview.do?cid=9c591659f017851e)|
-|컴퓨터네트워크|----|-|[http://www.kocw.net/home/search/kemView.do?kemId=1169634](http://www.kocw.net/home/search/kemView.do?kemId=1169634)|
+|컴퓨터네트워크|----|[컴퓨터 네트워킹: 하향식 접근](https://search.shopping.naver.com/book/catalog/34271347619?cat_id=50010921&frm=PBOKPRO&query=%EC%BB%B4%ED%93%A8%ED%84%B0%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9+%ED%95%98%ED%96%A5%EC%8B%9D+%EC%A0%91%EA%B7%BC&NaPm=ct%3Dmkkpacvk%7Cci%3D9268d66003412d9056d214f117d84d626fd0b0e0%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D604a6233946ce3acd67c8d6ca475c72c0c25aabb)|[http://www.kocw.net/home/search/kemView.do?kemId=1169634](http://www.kocw.net/home/search/kemView.do?kemId=1169634)|
 |컴퓨터구조론|----|-|[https://youtu.be/kFWP6sFKyp0](https://youtu.be/kFWP6sFKyp0)|
 |소프트웨어공학|----|-|[http://www.kocw.net/home/cview.do?cid=8c1f0e3871cf803d](http://www.kocw.net/home/cview.do?cid=8c1f0e3871cf803d)|
 
